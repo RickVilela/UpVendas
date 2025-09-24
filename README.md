@@ -1,2 +1,2 @@
-# ConectaVendas
+# UpVendas
 Aplicação SaaS
